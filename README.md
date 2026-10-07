@@ -12,7 +12,6 @@ This repo contains the static HTML, the live Plotly dashboard, and downloadable 
 |------|---------|
 | \`index.html\` | Landing page of phytai.com |
 | \`cv.html\` | CV page (links to the PDFs/DOCX below) |
-| \`jobs.html\` | Open-to-work / contact page |
 | \`dashboard_greek_banking.html\` | Static landing for the live dashboard |
 | \`dashboard/\` | Backend code for the live Plotly dashboard at phytai.com/dashboard |
 | \`CV_Papastergiou_EN.pdf\`, \`.docx\` | English CV downloads |
