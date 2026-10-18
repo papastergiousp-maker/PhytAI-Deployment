@@ -12,8 +12,8 @@ This repo contains the static HTML, the live Plotly dashboard, and downloadable 
 |------|---------|
 | \`index.html\` | Landing page of phytai.com |
 | \`cv.html\` | CV page (links to the PDFs/DOCX below) |
-| \`dashboard_greek_banking.html\` | Static landing for the live dashboard |
-| \`dashboard/\` | Backend code for the live Plotly dashboard at phytai.com/dashboard |
+| \`dashboard_greek_banking.html\` | Old address, redirects to /dashboard/ |
+| \`dashboard/\` | Greek banking dashboard (index.html + SQLite database, runs in the browser with sql.js) at phytai.com/dashboard |
 | \`CV_Papastergiou_EN.pdf\`, \`.docx\` | English CV downloads |
 | \`CV_Papastergiou_GR.pdf\` | Greek CV download |
 | \`CNAME\` | Binds the GitHub Pages site to the phytai.com domain |
